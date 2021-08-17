@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>杂七杂八 on 搞研究的蜀黍</title>
-    <link>http://shuaimeng.github.io/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</link>
-    <description>Recent content in 杂七杂八 on 搞研究的蜀黍</description>
+    <title>啰嗦，hugo on 搞研究的蜀黍</title>
+    <link>http://shuaimeng.github.io/tags/%E5%95%B0%E5%97%A6hugo/</link>
+    <description>Recent content in 啰嗦，hugo on 搞研究的蜀黍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 17 Aug 2021 08:36:57 +0800</lastBuildDate><atom:link href="http://shuaimeng.github.io/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2021 08:36:57 +0800</lastBuildDate><atom:link href="http://shuaimeng.github.io/tags/%E5%95%B0%E5%97%A6hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo生成的注意事项</title>
       <link>http://shuaimeng.github.io/posts/test/</link>
@@ -19,22 +19,6 @@
 error: failed to push some refs to &amp;lsquo;github.com:shuaimeng/shuaimeng.github.io.git&amp;rsquo;
 我先git pull，然后他们要求我回答下为什么要pull，我随便写了一点，然后再进行git push -u origin master就没问题了
  </description>
-    </item>
-    
-    <item>
-      <title>该博客的第一篇文章</title>
-      <link>http://shuaimeng.github.io/posts/first/</link>
-      <pubDate>Mon, 16 Aug 2021 22:06:38 +0800</pubDate>
-      
-      <guid>http://shuaimeng.github.io/posts/first/</guid>
-      <description>这里是该博客的第一篇文章。
-写于2021年8月16日。
-已经不记得这是多少次我使用github类型生成静态网页来做技术类的blog了。
-早期还是hexo，现在变成hugo，后者号称速度快很多，使用go语言，但与我有什么关系呢？
-hugo比hexo难折腾，有很多小坑。
-但我还是闯过来了。
-走到这一步，不知道下一步能写多久。
-感悟  github的pages页面还是更清爽 多写点东西吧 目前学习qt精神很高 先写到这里 终于搞定了toc，原来在文档前面写下toc就行了  </description>
     </item>
     
   </channel>
