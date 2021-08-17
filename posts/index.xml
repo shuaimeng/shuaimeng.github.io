@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 搞研究的蜀黍</title>
+    <link>http://shuaimeng.github.io/posts/</link>
+    <description>Recent content in Posts on 搞研究的蜀黍</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Tue, 17 Aug 2021 08:36:57 +0800</lastBuildDate><atom:link href="http://shuaimeng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://shuaimeng.github.io/posts/test/</link>
+      <pubDate>Tue, 17 Aug 2021 08:36:57 +0800</pubDate>
+      
+      <guid>http://shuaimeng.github.io/posts/test/</guid>
+      <description>测试 我的名字叫袁鑫
+流程  在github上生成同名仓库 删除public 新建一个md hugo cd public git init git add . git branch -M master 新建一个master 在github仓库上把pages的分支分配给master git remote add origin git仓库 git push -u origin master  </description>
+    </item>
+    
+    <item>
+      <title>该博客的第一篇文章</title>
+      <link>http://shuaimeng.github.io/posts/first/</link>
+      <pubDate>Mon, 16 Aug 2021 22:06:38 +0800</pubDate>
+      
+      <guid>http://shuaimeng.github.io/posts/first/</guid>
+      <description>这里是该博客的第一篇文章。
+写于2021年8月16日。
+已经不记得这是多少次我使用github类型生成静态网页来做技术类的blog了。
+早期还是hexo，现在变成hugo，后者号称速度快很多，使用go语言，但与我有什么关系呢？
+hugo比hexo难折腾，有很多小坑。
+但我还是闯过来了。
+走到这一步，不知道下一步能写多久。
+感悟  github的pages页面还是更清爽 多写点东西吧 目前学习qt精神很高 先写到这里 终于搞定了toc，原来在文档前面写下toc就行了  </description>
+    </item>
+    
+  </channel>
+</rss>
