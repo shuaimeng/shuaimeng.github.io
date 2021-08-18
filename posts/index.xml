@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 17 Aug 2021 08:36:57 +0800</lastBuildDate><atom:link href="http://shuaimeng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Aug 2021 06:44:45 +0800</lastBuildDate><atom:link href="http://shuaimeng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>实验室新建</title>
+      <link>http://shuaimeng.github.io/posts/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%96%B0%E5%BB%BA/</link>
+      <pubDate>Thu, 19 Aug 2021 06:44:45 +0800</pubDate>
+      
+      <guid>http://shuaimeng.github.io/posts/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%96%B0%E5%BB%BA/</guid>
+      <description>3楼的展示平台 ![591629326836_.pic](../../../../Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/55c018a3092061e1a1e33f34a83c820d/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/Image/601629326837_.pic.jpg)
+三楼的展示平台也经历了很多波折，最近三天每天都遇到一个比较大的问题，但都能最终完善的解决。比如驱动问题，通讯问题，相机出故障等问题。
+现在这套东西还是看着不错的。
+4楼实验室  双机器人终于搬到楼上了，我叫了叉车来处理，又去叉车师傅那里借了带轮子的撬棒+吊带，靠我们四五个人，就把2个大铁板摆放到位，然后把机器人放上去进行安装固定；   目前的实验室还是比较气派的，机器人大致也有快10台了  机器人   UR5，示范线1台，上汽2台，楼下1台
+  UR10，tesla一台
+  ABB 1200，1台
+  KUKA iiwa，1台
+  ABB iiwa，1台
+  FANUC，1台
+  </description>
+    </item>
+    
     <item>
       <title>Hugo生成的注意事项</title>
       <link>http://shuaimeng.github.io/posts/test/</link>
