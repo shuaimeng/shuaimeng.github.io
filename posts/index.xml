@@ -14,8 +14,7 @@
       <pubDate>Tue, 17 Aug 2021 08:36:57 +0800</pubDate>
       
       <guid>http://shuaimeng.github.io/posts/test/</guid>
-      <description>我的名字叫袁鑫
-流程  在github上生成同名仓库 删除public 新建一个md hugo cd public git init git add . git branch -M master 新建一个master git commit -m &#39;&#39; 在github仓库上把pages的分支分配给master git remote add origin git仓库 git push -u origin master  几个问题要注意  重新删除仓库后，注意要在hugo之后，在public文件夹里面，生成一个新的master分支； 最后用-u origin master 注意，github的仓库里，可能没有生成readme的文件，需要手动点击下； 在github的仓库里，设置下page里面，主要读取的是master分支； 注意域名要在域名服务商哪里解析下，然后在github的仓库里写一下；   刚刚还有一个问题：git认为我有东西 ! [rejected] master -&amp;gt; master (fetch first)
+      <description>流程  在github上生成同名仓库 删除public 新建一个md hugo cd public git init git add . git branch -M master 新建一个master git commit -m &#39;&#39; 在github仓库上把pages的分支分配给master git remote add origin git仓库 git push -u origin master  几个问题要注意  重新删除仓库后，注意要在hugo之后，在public文件夹里面，生成一个新的master分支； 最后用-u origin master 注意，github的仓库里，可能没有生成readme的文件，需要手动点击下； 在github的仓库里，设置下page里面，主要读取的是master分支； 注意域名要在域名服务商哪里解析下，然后在github的仓库里写一下；   刚刚还有一个问题：git认为我有东西 ! [rejected] master -&amp;gt; master (fetch first)
 error: failed to push some refs to &amp;lsquo;github.com:shuaimeng/shuaimeng.github.io.git&amp;rsquo;
 我先git pull，然后他们要求我回答下为什么要pull，我随便写了一点，然后再进行git push -u origin master就没问题了
  </description>
