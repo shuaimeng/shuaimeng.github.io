@@ -6,6 +6,16 @@
     <description>Recent content in Series on 搞研究的蜀黍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright notice</copyright><atom:link href="http://shuaimeng.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Fri, 20 Aug 2021 07:49:57 +0800</lastBuildDate><atom:link href="http://shuaimeng.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git学习</title>
+      <link>http://shuaimeng.github.io/series/git%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Fri, 20 Aug 2021 07:49:57 +0800</pubDate>
+      
+      <guid>http://shuaimeng.github.io/series/git%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

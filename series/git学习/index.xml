@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git学习 on 搞研究的蜀黍</title>
+    <link>http://shuaimeng.github.io/series/git%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in Git学习 on 搞研究的蜀黍</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Fri, 20 Aug 2021 07:49:57 +0800</lastBuildDate><atom:link href="http://shuaimeng.github.io/series/git%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git学习 1</title>
+      <link>http://shuaimeng.github.io/posts/git%E5%AD%A6%E4%B9%A0-1/</link>
+      <pubDate>Fri, 20 Aug 2021 07:49:57 +0800</pubDate>
+      
+      <guid>http://shuaimeng.github.io/posts/git%E5%AD%A6%E4%B9%A0-1/</guid>
+      <description>Git是如何储存信息的？ blob  储存信息的最小单元 里面储存具体内容，包含一些meta信息，通过sha1哈希算法 通过键值对进行储存   进行commit之后 形成的文件为tree文件 打印形成快照 内容包括：权限，类型，sha1值，具体文件   head，分支，普通的tag可以简单的理解成为一个指针，指向commit对应的sha1数值
+  从head开始，到分支，tag，指向一个指针 然后再到一个commit，对应快照、作者、提交信息等内容 然后，再到tree，包含提交内容的目录结构、文件权限、文件名 blob，一个最小单元，包含的是内容 每个blog，都会通过sha1进行压缩和处理  Git结构  git仓库是固化的  </description>
+    </item>
+    
+  </channel>
+</rss>
